@@ -55,7 +55,7 @@ int main()
 
     while(1)
     {
-        printf("\nEnter the choice:\n1: For Insertion in first\n2: For insertion in last\n3: For Exit:  ");
+        printf("\nEnter the choice:\n1: For Insertion in first\n2: For insertion in last\n3: For Exit: ");
         scanf("%d",&i);
         if(i==1)
         {
